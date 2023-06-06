@@ -32,16 +32,13 @@
 
 ## 成績單
 
-- 交大資工(甲、乙組)
 ![image](https://github.com/racercode/academic_document/assets/73743919/538dcf10-dd25-4878-9a72-eee3628ff6a0)
 
-- 台大資工
 ![image](https://github.com/racercode/academic_document/assets/73743919/d77a8ea0-f426-46ec-80e1-8888a0453fb8)
 
-- 台大資工 (APCS組)
 ![image](https://github.com/racercode/academic_document/assets/73743919/60f57d18-6ca2-4ec0-b94c-fa4fee758dc5)
 
-- 台大電機
+
 ![image](https://github.com/racercode/academic_document/assets/73743919/f7d0c8ec-3979-42d7-b600-601aad89c3c8)
 
 交大資工甲組備1、乙組正取，台大資工正取
