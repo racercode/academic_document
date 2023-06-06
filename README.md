@@ -33,11 +33,21 @@
 ## 成績單
 
 - 交大資工(甲、乙組)
-![交大成績單](https://github.com/racercode/academic_document/assets/73743919/402fc88c-3f2a-4c33-ab20-8ffb64d9ce7c)
+![image](https://github.com/racercode/academic_document/assets/73743919/538dcf10-dd25-4878-9a72-eee3628ff6a0)
 
 - 台大資工
+![image](https://github.com/racercode/academic_document/assets/73743919/d77a8ea0-f426-46ec-80e1-8888a0453fb8)
+
 - 台大資工 (APCS組)
+![image](https://github.com/racercode/academic_document/assets/73743919/60f57d18-6ca2-4ec0-b94c-fa4fee758dc5)
+
 - 台大電機
+![image](https://github.com/racercode/academic_document/assets/73743919/f7d0c8ec-3979-42d7-b600-601aad89c3c8)
+
+交大資工甲組備1、乙組正取，台大資工正取
+台大電機其實是備13，資工 APCS 組是備1，但其實這兩個照去年的備取人數都不會上
+主要是電機的物理考太爛QQ，資工 APCS 組差在備審 ( 畢竟我不是建中的，備審也沒多強 )
 
 
-"# academic_document" 
+
+
