@@ -30,17 +30,6 @@
     - 但是今天考一些大學才會教的東西，包括線性基、怪怪的矩陣
     - 桌子很小(跟音樂教室的一樣)
 
-## 成績單
-
-![image](https://github.com/racercode/academic_document/assets/73743919/538dcf10-dd25-4878-9a72-eee3628ff6a0)
-
-![image](https://github.com/racercode/academic_document/assets/73743919/d77a8ea0-f426-46ec-80e1-8888a0453fb8)
-
-![image](https://github.com/racercode/academic_document/assets/73743919/60f57d18-6ca2-4ec0-b94c-fa4fee758dc5)
-
-
-![image](https://github.com/racercode/academic_document/assets/73743919/f7d0c8ec-3979-42d7-b600-601aad89c3c8)
-
 交大資工甲組備1、乙組正取，台大資工正取
 台大電機其實是備13，資工 APCS 組是備1，但其實這兩個照去年的備取人數都不會上
 主要是電機的物理考太爛QQ，資工 APCS 組差在備審 ( 畢竟我不是建中的，備審也沒多強 )
